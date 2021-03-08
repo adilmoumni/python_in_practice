@@ -40,7 +40,10 @@ INSTALLED_APPS = [
     'ideabox_register',
     'crispy_forms',
     'todos',
-    'apiapp'
+    'apiapp',
+    'api',
+    'rest_framework',
+    'employeeapi',
 ]
 
 CRISPY_TEMPLATE_PACK = 'boostrap'
